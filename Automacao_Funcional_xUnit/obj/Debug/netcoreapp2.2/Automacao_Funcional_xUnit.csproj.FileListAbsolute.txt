@@ -12,3 +12,4 @@ C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Fun
 C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\obj\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.AssemblyInfo.cs
 C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\obj\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.dll
 C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\obj\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.pdb
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\bin\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.dll.config

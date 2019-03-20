@@ -1,0 +1,14 @@
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\bin\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.deps.json
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\bin\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.runtimeconfig.json
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\bin\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.runtimeconfig.dev.json
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\bin\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.dll
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\bin\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.pdb
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\obj\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.csprojAssemblyReference.cache
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\obj\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\obj\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.AssemblyInfoInputs.cache
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\obj\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.AssemblyInfo.cs
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\obj\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.dll
+C:\Users\leonardo.barcellos\source\repos\Automacao_Funcional_xUnit\Automacao_Funcional_xUnit\obj\Debug\netcoreapp2.2\Automacao_Funcional_xUnit.pdb
